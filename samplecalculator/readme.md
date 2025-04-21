@@ -9,3 +9,8 @@ from calc import Calculator
 
 calc = Calculator()
 print(calc.add(5, 3))  # 8
+
+
+access link: https://pypi.org/project/pankajsimplecalc/0.1.0/
+
+
